@@ -83,8 +83,10 @@ The project employs a JSON server to manage favorite cities, supporting the foll
 ## Live Demo
 Experience the Weather Dashboard live at: [Weather Application](https://weatherito-dashboard.netlify.app/)
 
-## Video Demo
-Experience the Weather Dashboard live at: [Weather Application] (https://www.loom.com/share/236ef11969f140daaf6b276ab708f6a2?sid=8d1204ef-dab7-4410-838a-94304eec2d03)
+##  Live Video Demo
+
+Experience the Weather Dashboard live at:  
+[Weather Application Demo](https://www.loom.com/share/236ef11969f140daaf6b276ab708f6a2?sid=8d1204ef-dab7-4410-838a-94304eec2d03)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
