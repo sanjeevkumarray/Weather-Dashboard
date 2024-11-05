@@ -34,7 +34,7 @@ To set up and run the Weather Dashboard locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AbdelrahmanAlsayed/Weather-Application
+    git clone https://github.com/sanjeevkumarray/Weather-Application
     ```
 
 2. Navigate to your project directory:
